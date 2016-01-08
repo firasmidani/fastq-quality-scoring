@@ -1,5 +1,7 @@
 author Firas Said Midani
+
 e-mail firas.midani@duke.edu
+
 date   2016.01.08
 
 A repository for computing distribution of quality scores at each nucleotide base in FASTQ file. Pipeline intended for usage with SLURM (Simple Linux Utility for Resource Management). 
